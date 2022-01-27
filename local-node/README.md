@@ -1,3 +1,5 @@
+go version:1.14
+
 build ipfs node
 ````
 cd go-ipfs
