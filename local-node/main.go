@@ -30,6 +30,7 @@ import (
 )
 
 func setupPlugins(externalPluginsPath string) error {
+	fmt.Printf("df")
 	// Load any external plugins if available on externalPluginsPath
 	plugins, err := loader.NewPluginLoader(filepath.Join(externalPluginsPath, "plugins"))
 	if err != nil {
