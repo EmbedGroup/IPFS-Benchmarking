@@ -18,4 +18,7 @@ replace (
 	github.com/ipfs/go-ipfs => ./go-ipfs/
 	github.com/ipfs/go-ipfs-provider => ./go-ipfs-provider/
 	metrics => ./metrics/
+	github.com/ipfs/go-ipld-format => ./go-ipld-format/
+	github.com/ipfs/go-merkledag => ./go-merkledag/
+	github.com/ipfs/go-blockservice => ./go-blockservice/
 )
