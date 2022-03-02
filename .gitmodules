@@ -1,15 +1,15 @@
 [submodule "go-ipfs"]
 	path = local-node/go-ipfs
-	url = https://github.com/quieoo/go-ipfs.git
+	url = https://github.com/EmbedGroup/go-ipfs.git
 [submodule "local-node/go-ipfs"]
 	path = local-node/go-ipfs
-	url = https://github.com/quieoo/go-ipfs.git
+	url = https://github.com/EmbedGroup/go-ipfs.git
 [submodule "local-node/go-bitswap"]
 	path = local-node/go-bitswap
-	url = https://github.com/quieoo/go-bitswap.git
+	url = https://github.com/EmbedGroup/go-bitswap.git
 [submodule "local-node/go-ipfs-provider"]
 	path = local-node/go-ipfs-provider
-	url = https://github.com/quieoo/go-ipfs-provider.git
+	url = https://github.com/EmbedGroup/go-ipfs-provider.git
 [submodule "local-node/go-ipld-format"]
 	path = local-node/go-ipld-format
 	url = https://github.com/EmbedGroup/go-ipld-format.git
