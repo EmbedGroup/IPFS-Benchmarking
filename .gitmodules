@@ -10,12 +10,3 @@
 [submodule "local-node/go-ipfs-provider"]
 	path = local-node/go-ipfs-provider
 	url = https://github.com/EmbedGroup/go-ipfs-provider.git
-[submodule "local-node/go-ipld-format"]
-	path = local-node/go-ipld-format
-	url = https://github.com/EmbedGroup/go-ipld-format.git
-[submodule "local-node/go-merkledag"]
-	path = local-node/go-merkledag
-	url = https://github.com/EmbedGroup/go-merkledag.git
-[submodule "local-node/go-blockservice"]
-	path = local-node/go-blockservice
-	url = https://github.com/EmbedGroup/go-blockservice.git
